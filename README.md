@@ -1,16 +1,7 @@
 # fetch_api_with_bloc
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/5ab8107e-d41a-495e-8fb0-85021d7362fd
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1000195090](https://github.com/user-attachments/assets/ed9ac3a1-8d5b-481b-b723-74fee4112e08)
